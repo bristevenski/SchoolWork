@@ -1,0 +1,2 @@
+E:\COBOL ProgramsLabs\Exam4Pt2\exam4\bin\x86\Debug\exam4.exe
+E:\COBOL ProgramsLabs\Exam4Pt2\exam4\obj\x86\Debug\exam4.exe

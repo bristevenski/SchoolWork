@@ -1,0 +1,240 @@
+DATE: 04/11/2014                    FastMart                             PAGE:01
+TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  00598  LAUREN               AUTO       765  SEAT COVER       $5,069.00     5          SALES AMT:   $25,345.00 SALES TAX:  $1,393.98 TRANS AMT:    $26,738.98
+
+  10000  JOHN                 HOME       101  DRAWERS          $  999.00     1          SALES AMT:      $999.00 SALES TAX:     $54.95 TRANS AMT:     $1,053.95
+
+  10000  JOHN                 HOME       101  DRAWERS          $  300.00    60          SALES AMT:   $18,000.00 SALES TAX:    $990.00 TRANS AMT:    $18,990.00
+
+  10000  JOHN                 AUTO       110  TIRES            $4,999.00     4          SALES AMT:   $19,996.00 SALES TAX:  $1,099.78 TRANS AMT:    $21,095.78
+
+  10000  JOHN                 AUTO       564  WHEELS           $  576.00   100          SALES AMT:   $57,600.00 SALES TAX:  $3,168.00 TRANS AMT:    $60,768.00
+
+  10994  SHANNON              AUTO       110  TIRES            $5,400.00     4          SALES AMT:  $141,600.00 SALES TAX:  $7,788.00 TRANS AMT:   $149,388.00
+
+  11000  ERIK                 AUTO       110  MOTOR OIL        $1,299.00     1          SALES AMT:    $1,299.00 SALES TAX:     $71.45 TRANS AMT:     $1,370.45
+
+  11000  ERIK                 AUTO       488  CABIN FILTER     $  523.00     3          SALES AMT:    $1,569.00 SALES TAX:     $86.30 TRANS AMT:     $1,655.30
+
+  11111  KAMERON              HOME       101  DRAWERS          $5,899.00     2          SALES AMT:   $91,798.00 SALES TAX:  $5,048.89 TRANS AMT:    $96,846.89
+
+  12000  LANCE ARMSTRONG      AUTO       112  FLOOR MAT        $2,999.00     1          SALES AMT:    $2,999.00 SALES TAX:    $164.95 TRANS AMT:     $3,163.95
+
+  12000  LANCE ARMSTRONG      AUTO       400  BYCYCLE          $   43.00     1          SALES AMT:   $30,043.00 SALES TAX:  $1,652.37 TRANS AMT:    $31,695.37
+
+  12211  LINDSAY              HOME       159  DESK LAMP        $2,089.00     1          SALES AMT:   $12,089.00 SALES TAX:    $664.90 TRANS AMT:    $12,753.90
+
+  14660  JUSTIN               GROCERY    556  ONION            $4,354.00     4          SALES AMT:   $17,416.00 SALES TAX:    $957.88 TRANS AMT:    $18,373.88
+
+  20000  PAUL                 HOME       102  DISH SOAP        $1,999.00     1          SALES AMT:    $1,999.00 SALES TAX:    $109.95 TRANS AMT:     $2,108.95
+
+  20000  PAUL                 HOME       105  SOFA             $5,000.00     1          SALES AMT:    $5,000.00 SALES TAX:    $275.00 TRANS AMT:     $5,275.00
+
+  20000  PAUL                 HOME       789  DRAWER           $1,099.00     7          SALES AMT:    $7,693.00 SALES TAX:    $423.12 TRANS AMT:     $8,116.12
+DATE: 04/11/2014                    FastMart                             PAGE:02TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  20000  PAUL                 HOME       899  NIGHT STAND      $5,000.00     1          SALES AMT:   $25,000.00 SALES TAX:  $1,375.00 TRANS AMT:    $26,375.00
+
+  20000  PAUL                 GROCERY    475  CELERY           $5,000.00   500          SALES AMT:$2,500,000.00 SALES TAX:$137,500.00 TRANS AMT: $2,637,500.00
+
+  20000  PAUL                 AUTO       455  TIRE SHINE       $  234.00    56          SALES AMT:   $13,104.00 SALES TAX:    $720.72 TRANS AMT:    $13,824.72
+
+  26585  PATRICK              ELECTRONIC 899  HOME TELEPHONE   $    0.00     2          SALES AMT:   $60,000.00 SALES TAX:  $3,300.00 TRANS AMT:    $63,300.00
+
+  29789  SUSAN                AUTO       455  TIRE SHINE       $2,200.00    33          SALES AMT:   $72,600.00 SALES TAX:  $3,993.00 TRANS AMT:    $76,593.00
+
+  30000  SAM                  HOME       103  TOWELS           $1,899.00     2          SALES AMT:    $3,798.00 SALES TAX:    $208.89 TRANS AMT:     $4,006.89
+
+  30000  SAM                  HOME       600  THROWS           $  399.00     4          SALES AMT:    $1,596.00 SALES TAX:     $87.78 TRANS AMT:     $1,683.78
+
+  32900  BRIANNA              AUTO       344  CHAIR            $  434.00    42          SALES AMT:   $18,228.00 SALES TAX:  $1,002.54 TRANS AMT:    $19,230.54
+
+  34450  JACKSON              GROCERY    108  BREAD            $4,323.00     5          SALES AMT:   $21,615.00 SALES TAX:  $1,188.83 TRANS AMT:    $22,803.83
+
+  34500  CHARLIE              HOME       567  MATRESS          $    0.00     3          SALES AMT:   $60,000.00 SALES TAX:  $3,300.00 TRANS AMT:    $63,300.00
+
+  34500  CHARLIE              ELECTRONIC 456  MONITOR          $  546.00    87          SALES AMT:   $47,502.00 SALES TAX:  $2,612.61 TRANS AMT:    $50,114.61
+
+  35600  OSCAR                ELECTRONIC 664  MOUSE            $  423.00     6          SALES AMT:    $2,538.00 SALES TAX:    $139.59 TRANS AMT:     $2,677.59
+
+  3J5O6  JOE ADMIN            HOME       467  CHAIR            $3,700.00     5          SALES AMT:   $18,500.00 SALES TAX:  $1,017.50 TRANS AMT:    $19,517.50
+
+  40000  DAN                  ELECTRONIC 104  DVD PLAYER       $9,999.00     1          SALES AMT:   $19,999.00 SALES TAX:  $1,099.95 TRANS AMT:    $21,098.95
+
+  40000  DAN                  ELECTRONIC 123  KEYBOARD         $  399.00     7          SALES AMT:    $2,793.00 SALES TAX:    $153.62 TRANS AMT:     $2,946.62
+
+  40200  BOB                  HOME       500  BOX OF SCREWS    $1,598.00     2          SALES AMT:    $3,196.00 SALES TAX:    $175.78 TRANS AMT:     $3,371.78
+
+  40201  SAM                  ELECTRONIC 600  GAUGE WIRE       $8,197.00    20          SALES AMT:  $163,940.00 SALES TAX:  $9,016.70 TRANS AMT:   $172,956.70
+DATE: 04/11/2014                    FastMart                             PAGE:03TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  40202  TOM                  HOME       502  COMFORTERS       $3,268.00     2          SALES AMT:    $6,536.00 SALES TAX:    $359.48 TRANS AMT:     $6,895.48
+
+  40202  TOM                  GROCERY    700  APPLE            $  232.00     5          SALES AMT:    $1,160.00 SALES TAX:     $63.80 TRANS AMT:     $1,223.80
+
+  40202  TOM                  GROCERY    701  CORN             $   59.00   100          SALES AMT:    $5,900.00 SALES TAX:    $324.50 TRANS AMT:     $6,224.50
+
+  40202  TOM                  AUTO       802  ROOF MOUNT       $  999.00     1          SALES AMT:      $999.00 SALES TAX:     $54.95 TRANS AMT:     $1,053.95
+
+  40203  RON                  GROCERY    701  CORN             $   97.00    10          SALES AMT:      $970.00 SALES TAX:     $53.35 TRANS AMT:     $1,023.35
+
+  40204  KYLE                 AUTO       110  TIRES            $9,867.00     4          SALES AMT:   $39,468.00 SALES TAX:  $2,170.74 TRANS AMT:    $41,638.74
+
+  40205  TIM                  HOME       501  CHEST            $3,299.00     1          SALES AMT:   $53,299.00 SALES TAX:  $2,931.45 TRANS AMT:    $56,230.45
+
+  40206  BILL                 ELECTRONIC 601  OUTLET           $  521.00    52          SALES AMT:   $27,092.00 SALES TAX:  $1,490.06 TRANS AMT:    $28,582.06
+
+  40208  ARIEL                AUTO       801  CAR COVER        $  999.00    20          SALES AMT:   $19,980.00 SALES TAX:  $1,098.90 TRANS AMT:    $21,078.90
+
+  40210  ANDREW               ELECTRONIC 602  LIGHTBULB        $  539.00     3          SALES AMT:    $1,617.00 SALES TAX:     $88.94 TRANS AMT:     $1,705.94
+
+  43200  JOHN                 HOME       868  FLOOR LAMP       $  400.00     3          SALES AMT:    $1,200.00 SALES TAX:     $66.00 TRANS AMT:     $1,266.00
+
+  43320  MICHAELS             HOME       456  DESK             $4,566.00    23          SALES AMT:  $105,018.00 SALES TAX:  $5,775.99 TRANS AMT:   $110,793.99
+
+  44450  RYAN                 AUTO       488  CABIN FILTER     $3,466.00    34          SALES AMT:  $117,844.00 SALES TAX:  $6,481.42 TRANS AMT:   $124,325.42
+
+  45300  WAYNE                AUTO       564  WHEELS           $8,000.00     8          SALES AMT:  $144,000.00 SALES TAX:  $7,920.00 TRANS AMT:   $151,920.00
+
+  45454  SHAQ                 AUTO       555  PRESSURE WASHER  $    0.00     1          SALES AMT:   $10,000.00 SALES TAX:    $550.00 TRANS AMT:    $10,550.00
+
+  45454  SHAQ                 AUTO       765  SEAT COVER       $  600.00     1          SALES AMT:      $600.00 SALES TAX:     $33.00 TRANS AMT:       $633.00
+
+  45560  JENNA                ELECTRONIC 123  KEYBOARD         $5,456.00     3          SALES AMT:   $16,368.00 SALES TAX:    $900.24 TRANS AMT:    $17,268.24
+DATE: 04/11/2014                    FastMart                             PAGE:04TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  45621  CHRISTOPHER          HOME       654  SIDE TABLE       $8,956.00     1          SALES AMT:    $8,956.00 SALES TAX:    $492.58 TRANS AMT:     $9,448.58
+
+  46541  JAKE                 HOME       156  FLOOR MAT        $  100.00     3          SALES AMT:      $300.00 SALES TAX:     $16.50 TRANS AMT:       $316.50
+
+  47500  JAY                  ELECTRONIC 664  MOUSE            $5,000.00     4          SALES AMT:   $60,000.00 SALES TAX:  $3,300.00 TRANS AMT:    $63,300.00
+
+  48390  GREGORY              AUTO       847  SCREW DRIVER     $5,010.00    17          SALES AMT:   $85,170.00 SALES TAX:  $4,684.35 TRANS AMT:    $89,854.35
+
+  4I9GJ  HAPPY PHIL           ELECTRONIC 347  USB FLASHDRIVE   $  799.00     4          SALES AMT:    $3,196.00 SALES TAX:    $175.78 TRANS AMT:     $3,371.78
+
+  50000  FRENCHIE             HOME       654  SIDE TABLE       $3,400.00     5          SALES AMT:   $17,000.00 SALES TAX:    $935.00 TRANS AMT:    $17,935.00
+
+  50000  FRENCHIE             ELECTRONIC 105  HD TV            $9,999.00     1          SALES AMT:   $19,999.00 SALES TAX:  $1,099.95 TRANS AMT:    $21,098.95
+
+  50000  FRENCHIE             ELECTRONIC 475  PLAY STATION 2   $   99.00     1          SALES AMT:       $99.00 SALES TAX:      $5.45 TRANS AMT:       $104.45
+
+  50000  FRENCHIE             AUTO       234  TRACTOR          $7,845.00     3          SALES AMT:  $203,535.00 SALES TAX: $11,194.43 TRANS AMT:   $214,729.43
+
+  54000  LARA                 GROCERY    475  CELERY           $  400.00   100          SALES AMT:   $40,000.00 SALES TAX:  $2,200.00 TRANS AMT:    $42,200.00
+
+  54300  ABBY                 GROCERY    453  TOMATO PASTE     $4,340.00    45          SALES AMT:  $195,300.00 SALES TAX: $10,741.50 TRANS AMT:   $206,041.50
+
+  54545  YOLANDA              ELECTRONIC 656  LAPTOP           $1,000.00     3          SALES AMT:    $3,000.00 SALES TAX:    $165.00 TRANS AMT:     $3,165.00
+
+  55688  HERMAN               ELECTRONIC 255  PLAY STATION 3   $  300.00     6          SALES AMT:    $1,800.00 SALES TAX:     $99.00 TRANS AMT:     $1,899.00
+
+  59737  THOMAS               ELECTRONIC 774  iPhone 5         $2,000.00     1          SALES AMT:    $2,000.00 SALES TAX:    $110.00 TRANS AMT:     $2,110.00
+
+  60000  FABIO                ELECTRONIC 105  HD TV            $9,999.00     1          SALES AMT:   $19,999.00 SALES TAX:  $1,099.95 TRANS AMT:    $21,098.95
+
+  60000  FABIO                ELECTRONIC 201  XBOX             $    0.00     2          SALES AMT:   $40,000.00 SALES TAX:  $2,200.00 TRANS AMT:    $42,200.00
+
+  61101  CARRINGTON           GROCERY    108  BREAD            $  399.00     5          SALES AMT:    $1,995.00 SALES TAX:    $109.73 TRANS AMT:     $2,104.73
+DATE: 04/11/2014                    FastMart                             PAGE:05TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  66985  PAUL                 AUTO       444  BATTERIES        $   65.00     1          SALES AMT:   $90,065.00 SALES TAX:  $4,953.58 TRANS AMT:    $95,018.58
+
+  67000  JOSH                 GROCERY    688  PIZZA            $1,299.00    14          SALES AMT:   $18,186.00 SALES TAX:  $1,000.23 TRANS AMT:    $19,186.23
+
+  67800  BOBBY                HOME       890  CABINETS         $  899.00     5          SALES AMT:    $4,495.00 SALES TAX:    $247.23 TRANS AMT:     $4,742.23
+
+  70000  WILLSON              GROCERY    107  MILK             $  499.00     2          SALES AMT:      $998.00 SALES TAX:     $54.89 TRANS AMT:     $1,052.89
+
+  70000  WILLSON              GROCERY    808  CHOCOLATE        $  594.00     4          SALES AMT:    $2,376.00 SALES TAX:    $130.68 TRANS AMT:     $2,506.68
+
+  76HGB  BOB WILL             ELECTRONIC 774  iPhone 5         $9,999.00     1          SALES AMT:   $29,999.00 SALES TAX:  $1,649.95 TRANS AMT:    $31,648.95
+
+  78900  RACHAEL              ELECTRONIC 123  KEYBOARD         $2,500.00     8          SALES AMT:   $20,000.00 SALES TAX:  $1,100.00 TRANS AMT:    $21,100.00
+
+  78900  PHYLLIS              GROCERY    808  CHOCOLATE        $  585.00    56          SALES AMT:   $32,760.00 SALES TAX:  $1,801.80 TRANS AMT:    $34,561.80
+
+  80000  HARRY                GROCERY    108  BREAD            $  599.00     2          SALES AMT:    $1,198.00 SALES TAX:     $65.89 TRANS AMT:     $1,263.89
+
+  80000  HARRY                GROCERY    897  KETCHUP          $  199.00     2          SALES AMT:      $398.00 SALES TAX:     $21.89 TRANS AMT:       $419.89
+
+  87000  JIMBO                ELECTRONIC 255  PLAY STATION 3   $    0.00    10          SALES AMT:  $500,000.00 SALES TAX: $27,500.00 TRANS AMT:   $527,500.00
+
+  87923  JOSH                 HOME       105  SOFA             $2,300.00    56          SALES AMT:  $128,800.00 SALES TAX:  $7,084.00 TRANS AMT:   $135,884.00
+
+  87946  QUINTIN              GROCERY    556  ONION            $5,500.00    10          SALES AMT:  $555,000.00 SALES TAX: $30,525.00 TRANS AMT:   $585,525.00
+
+  87965  YESHA                HOME       105  SOFA             $2,000.00     2          SALES AMT:    $4,000.00 SALES TAX:    $220.00 TRANS AMT:     $4,220.00
+
+  89743  CAMELIA              GROCERY    688  PIZZA            $  500.00     3          SALES AMT:    $1,500.00 SALES TAX:     $82.50 TRANS AMT:     $1,582.50
+
+  90000  TODD                 GROCERY    109  EGGS             $  499.00     1          SALES AMT:      $499.00 SALES TAX:     $27.45 TRANS AMT:       $526.45
+
+  90000  TODD                 GROCERY    700  APPLE            $  599.00     2          SALES AMT:    $1,198.00 SALES TAX:     $65.89 TRANS AMT:     $1,263.89
+DATE: 04/11/2014                    FastMart                             PAGE:06TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  90908  TANNER               GROCERY    109  EGGS             $  269.00     4          SALES AMT:    $1,076.00 SALES TAX:     $59.18 TRANS AMT:     $1,135.18
+
+  94316  JESUS                GROCERY    566  HOLYNESS         $  200.00   999          SALES AMT:  $199,800.00 SALES TAX: $10,989.00 TRANS AMT:   $210,789.00
+
+  96584  JACK                 ELECTRONIC 543  HEADPHONES       $3,025.00     2          SALES AMT:   $66,050.00 SALES TAX:  $3,632.75 TRANS AMT:    $69,682.75
+
+  98UJ7  BILLY BOB            HOME       888  WII              $    0.00     1          SALES AMT:   $10,000.00 SALES TAX:    $550.00 TRANS AMT:    $10,550.00
+
+  99001  VICKY                GROCERY    107  MILK             $  599.00     2          SALES AMT:    $1,198.00 SALES TAX:     $65.89 TRANS AMT:     $1,263.89
+
+  99845  JANE                 ELECTRONIC 656  LAPTOP           $2,499.00     5          SALES AMT:   $12,495.00 SALES TAX:    $687.23 TRANS AMT:    $13,182.23
+
+  9J3MB  MALICE ADOLL         GROCERY    101  BACON            $  555.00     5          SALES AMT:    $2,775.00 SALES TAX:    $152.63 TRANS AMT:     $2,927.63
+
+  C0001  Mario Speedwagon     HOME       101  DRAWERS          $1,500.00    12          SALES AMT:   $18,000.00 SALES TAX:    $990.00 TRANS AMT:    $18,990.00
+
+  C0002  Petey Cruiser        HOME       102  DISH SOAP        $  589.00    11          SALES AMT:    $6,479.00 SALES TAX:    $356.35 TRANS AMT:     $6,835.35
+
+  C0003  Anna Sthesia         HOME       103  TOWELS           $  250.00    10          SALES AMT:    $2,500.00 SALES TAX:    $137.50 TRANS AMT:     $2,637.50
+
+  C0003  Anna Sthesia         ELECTRONIC 543  HEADPHONES       $  300.00     2          SALES AMT:      $600.00 SALES TAX:     $33.00 TRANS AMT:       $633.00
+
+  C0003  Anna Sthesia         GROCERY    303  Watermelon       $  450.00     4          SALES AMT:    $1,800.00 SALES TAX:     $99.00 TRANS AMT:     $1,899.00
+
+  C0003  Anna Sthesia         AUTO       112  FLOOR MAT        $2,499.00     2          SALES AMT:    $4,998.00 SALES TAX:    $274.89 TRANS AMT:     $5,272.89
+
+  C0004  Paul Molive          ELECTRONIC 201  XBOX             $9,999.00     9          SALES AMT:  $179,991.00 SALES TAX:  $9,899.51 TRANS AMT:   $189,890.51
+
+  C0005  Anna Mull            ELECTRONIC 105  HD TV            $9,999.00     8          SALES AMT:  $799,992.00 SALES TAX: $43,999.56 TRANS AMT:   $843,991.56
+
+  C0006  Gail Forcewind       ELECTRONIC 203  CD               $1,499.00     7          SALES AMT:   $10,493.00 SALES TAX:    $577.12 TRANS AMT:    $11,070.12
+
+  C0007  Paige Turner         GROCERY    107  Milk             $  350.00     6          SALES AMT:    $2,100.00 SALES TAX:    $115.50 TRANS AMT:     $2,215.50
+DATE: 04/11/2014                    FastMart                             PAGE:07TIME: 14:12                    TRANSACTION REPORT
+
+CUSTOMER       CUSTOMER       DEPARTMENT ITEM      ITEM          UNIT NUMBER          NAME            CODE    CODE   DESCRIPTION      PRICE  QUANTITY
+
+  C0008  Bob Frapples         GROCERY    109  Eggs             $  199.00     5          SALES AMT:      $995.00 SALES TAX:     $54.73 TRANS AMT:     $1,049.73
+
+  C0010  Nick R. Bocker       AUTO       401  CAR WAX          $  850.00     3          SALES AMT:    $2,550.00 SALES TAX:    $140.25 TRANS AMT:     $2,690.25
+
+  C0012  Buck Kinnear         AUTO       403  RUBBER MAT       $  100.00     1          SALES AMT:      $100.00 SALES TAX:      $5.50 TRANS AMT:       $105.50
+
+  HUT4N  AGRUE JOHANSON       GROCERY    303  Watermelon       $7,700.00   830          SALES AMT:$6,391,000.00 SALES TAX:$351,505.00 TRANS AMT: $6,742,505.00
+
+  OW3NG  BON BON              AUTO       124  WINSHIELD FLUID  $  350.00    75          SALES AMT:   $26,250.00 SALES TAX:  $1,443.75 TRANS AMT:    $27,693.75
+
+  WHO00  THE DOCTOR           AUTO       847  SCREW DRIVER     $  852.00    14          SALES AMT:   $11,928.00 SALES TAX:    $656.04 TRANS AMT:    $12,584.04
+
+  ZELDA  LINK                 AUTO       333  TRIFORCE         $  333.00     3          SALES AMT:      $999.00 SALES TAX:     $54.95 TRANS AMT:     $1,053.95
+
+          TOTALS:  $13,869,895.00           $762,844.38           $14,632,739.38

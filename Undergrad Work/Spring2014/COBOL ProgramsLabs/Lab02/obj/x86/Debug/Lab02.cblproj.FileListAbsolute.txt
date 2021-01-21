@@ -1,0 +1,2 @@
+E:\COBOL ProgramsLabs\Lab02\bin\x86\Debug\ConsoleApplication1.exe
+E:\COBOL ProgramsLabs\Lab02\obj\x86\Debug\ConsoleApplication1.exe

@@ -1,0 +1,2 @@
+C:\Users\muleskib\AppData\Local\Temporary Projects\Login\bin\Debug\Login.exe.config
+F:\School\Spring2015\Database\muleskib_A10\Login\bin\Debug\Login.exe.config

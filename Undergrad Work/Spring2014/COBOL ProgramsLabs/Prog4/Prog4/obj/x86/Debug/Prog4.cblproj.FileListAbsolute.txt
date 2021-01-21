@@ -1,0 +1,4 @@
+H:\COBOL ProgramsLabs\Prog4\Prog4\bin\x86\Debug\Phase2.exe
+H:\COBOL ProgramsLabs\Prog4\Prog4\obj\x86\Debug\Phase2.exe
+E:\COBOL ProgramsLabs\Prog4\Prog4\bin\x86\Debug\Phase2.exe
+E:\COBOL ProgramsLabs\Prog4\Prog4\obj\x86\Debug\Phase2.exe

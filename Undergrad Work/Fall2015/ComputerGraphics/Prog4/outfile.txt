@@ -1,0 +1,26 @@
+Axes.cs : 67 ;       //GL.EnableClientState(ArrayCap.VertexArray);
+
+Axes.cs : 68 ;       //GL.EnableClientState(ArrayCap.ColorArray);
+
+Axes.cs : 70 ;       //GL.VertexPointer(3, VertexPointerType.Float, BlittableValueType.StrideOf(verts), new IntPtr(0));
+
+Axes.cs : 71 ;       //GL.ColorPointer(3, ColorPointerType.Float, BlittableValueType.StrideOf(verts), new IntPtr(12));
+
+Axes.cs : 82 ;       //GL.MatrixMode(MatrixMode.Modelview);
+
+Axes.cs : 83 ;       //GL.LoadMatrix(ref look_at);
+
+Figure.cs : 108 ;          //GL.EnableClientState(ArrayCap.VertexArray);
+
+Figure.cs : 109 ;          //GL.EnableClientState(ArrayCap.ColorArray);
+
+Figure.cs : 111 ;          //GL.VertexPointer(3, VertexPointerType.Float, BlittableValueType.StrideOf(verts), new IntPtr(0));
+
+Figure.cs : 112 ;          //GL.ColorPointer(3, ColorPointerType.Float, BlittableValueType.StrideOf(verts), new IntPtr(12));
+
+Figure.cs : 160 ;          //GL.LoadMatrix(ref show);
+
+Form1.cs : 54 ;          //GL.MatrixMode(MatrixMode.Projection);
+
+Form1.cs : 58 ;          //GL.LoadMatrix(ref projMat);
+

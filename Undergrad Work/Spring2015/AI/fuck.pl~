@@ -1,0 +1,20 @@
+% Brianna Muleski - Lab 5
+
+% Facts:
+positive_mammal :- [has_hair, produces_milk].
+
+it_is(bird) :- positive(has_feathers).
+
+it_is(rodent) :- it_is(mammal).
+it_is(rodent) :- positive(has_long_incisors).
+
+it_is(carnivore) :- positive(eats_meat).
+it_is(carnivore) :- negative(eats_plants).
+
+it_is(herbivore) :- positive(eats_plants).
+it_is(herbivore) :- negative(eats_meat).
+
+it_is(omnivore) :- positive(eats_meat).
+it_is(omnivore) :- positive(eats_plants).
+
+classify(L1, L2, mammal) :- L1 = positive_mammal, L2 = [].

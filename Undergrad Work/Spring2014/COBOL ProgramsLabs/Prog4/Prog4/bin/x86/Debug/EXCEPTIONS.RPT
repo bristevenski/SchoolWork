@@ -1,0 +1,13 @@
+DATE: 05/05/2014        INTERNATIONAL CHOCOLATES COMPANY         BRIANNA MULESKI
+TIME: 14:52                     EMPLOYEE PAYROLL
+
+EMP ID    HOURS    PAY RATE    ERROR MESSAGE================================================================================
+1015        0        60.0      Number of hours is ZERO!!
+1024       65        34.5      Exceeds maximum overtime hours!
+2019        0         7.0      Number of hours is ZERO!!
+3009       68        60.0      Exceeds maximum overtime hours!
+4011       70        88.5      Exceeds maximum overtime hours!
+5013       65        34.5      Exceeds maximum overtime hours!
+6017       65        34.5      Exceeds maximum overtime hours!
+================================================================================
+ 7 ERROR RECORDS

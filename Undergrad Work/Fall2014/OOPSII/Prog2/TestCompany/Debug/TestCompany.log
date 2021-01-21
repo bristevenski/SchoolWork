@@ -1,0 +1,11 @@
+﻿Build started 10/5/2014 5:11:44 PM.
+     1>Project "C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\TestCompany\TestCompany.vcxproj" on node 4 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\Debug\TestCompany.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\Debug\TestCompany.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\Debug\TestCompany.lib" /MACHINE:X86 Debug\Company.obj
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol _main referenced in function ___tmainCRTStartup
+     1>C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\Debug\TestCompany.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Brianna\Documents\School\Fall2014\OOPSII\Prog2\TestCompany\TestCompany.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.57

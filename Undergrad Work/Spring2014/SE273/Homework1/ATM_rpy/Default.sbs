@@ -1,0 +1,156 @@
+I-Logix-RPY-Archive version 8.7.1 C++ 5066837
+{ ISubsystem 
+	- _id = GUID 06f3d942-4c0a-4b23-bac5-59acec8c403a;
+	- _myState = 8192;
+	- _name = "Default";
+	- _lastID = 3;
+	- weakCGTime = 2.26.2014::19:32:20;
+	- strongCGTime = 1.2.1990::0:0:0;
+	- _defaultComposite = GUID 68920437-3a44-46c2-864c-9cd36c18e9cb;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID 68920437-3a44-46c2-864c-9cd36c18e9cb;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- weakCGTime = 2.26.2014::19:27:27;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- UseCases = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IUseCase 
+			- _id = GUID d04d1a54-c6ed-417c-a256-75d07e8029e9;
+			- _myState = 8192;
+			- _name = "Withdraw Money";
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 303915dd-3f81-42fd-8624-fa7aeafbfb1e;
+					- _myState = 10240;
+					- _name = "itsCustomer";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID a7820013-f955-4505-a843-5e23635b2c1e;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 89e555d6-5727-44db-ba34-3897bb136b56;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 6f709039-e8dc-4b7f-8f70-d8e8194d118a;
+					- _myState = 10240;
+					- _name = "itsATM User";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID acd2a1a2-ad7b-40d3-a63a-2b3b4c19550b;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 51c2d1c3-2fb3-41da-82fd-9f46f409b3db;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- Actors = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IActor 
+			- _id = GUID a7820013-f955-4505-a843-5e23635b2c1e;
+			- _myState = 8192;
+			- _name = "Customer";
+			- weakCGTime = 2.26.2014::19:27:53;
+			- strongCGTime = 2.26.2014::19:27:35;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 89e555d6-5727-44db-ba34-3897bb136b56;
+					- _myState = 10240;
+					- _name = "itsWithdraw Money";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID d04d1a54-c6ed-417c-a256-75d07e8029e9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 303915dd-3f81-42fd-8624-fa7aeafbfb1e;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID acd2a1a2-ad7b-40d3-a63a-2b3b4c19550b;
+			- _myState = 8192;
+			- _name = "ATM User";
+			- weakCGTime = 2.26.2014::19:32:29;
+			- strongCGTime = 2.26.2014::19:32:25;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 51c2d1c3-2fb3-41da-82fd-9f46f409b3db;
+					- _myState = 10240;
+					- _name = "itsWithdraw Money";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID d04d1a54-c6ed-417c-a256-75d07e8029e9;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 6f709039-e8dc-4b7f-8f70-d8e8194d118a;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

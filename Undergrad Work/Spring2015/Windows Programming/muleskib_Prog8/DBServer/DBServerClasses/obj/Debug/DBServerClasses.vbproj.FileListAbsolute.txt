@@ -1,0 +1,8 @@
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\bin\Debug\DBServerClasses.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\bin\Debug\DBServerClasses.pdb
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\bin\Debug\DBServerClasses.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\obj\Debug\UWPCS3340.Resources.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\obj\Debug\DBServerClasses.vbproj.GenerateResource.Cache
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\obj\Debug\DBServerClasses.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\obj\Debug\DBServerClasses.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog8\DBServer\DBServerClasses\obj\Debug\DBServerClasses.pdb

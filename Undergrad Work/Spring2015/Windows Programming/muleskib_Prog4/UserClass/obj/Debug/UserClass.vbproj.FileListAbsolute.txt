@@ -1,0 +1,8 @@
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\bin\Debug\UserClass.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\bin\Debug\UserClass.pdb
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\bin\Debug\UserClass.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\obj\Debug\UWPCS3340.Resources.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\obj\Debug\UserClass.vbproj.GenerateResource.Cache
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\obj\Debug\UserClass.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\obj\Debug\UserClass.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\muleskib_Prog4\UserClass\obj\Debug\UserClass.pdb

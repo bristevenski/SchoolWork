@@ -1,0 +1,23 @@
+with Ada.Text_IO, Ada.Integer_Text_IO;
+use Ada.Text_IO, Ada.Integer_Text_IO;
+
+procedure Prog3 is
+	My_File : FILE_TYPE;
+
+	type Scanner is
+
+	begin
+
+	end Scanner;
+
+   	procedure Tokenizer is
+		my scanner is new Scanner
+
+	begin
+
+   	end Tokenizer;
+
+begin
+	open(My_File, In_File, "prog3.in");
+
+end Prog3;

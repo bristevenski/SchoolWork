@@ -1,0 +1,43 @@
+Lauren
+unit price: 50.69
+quantity: 5
+amount: 267.39
+
+total amount: 50957.44
+
+John
+unit price: 9.99
+quantity: 1
+amount: 10.54
+
+unit price: 49.99
+quantity: 4
+amount: 210.96
+
+unit price: 3.00
+quantity: 60
+amount: 189.90
+
+unit price: 5.76
+quantity: 100
+amount: 607.68
+
+total amount: 11009.09
+
+Shannon
+unit price: 354.00
+quantity: 4
+amount: 1493.88
+
+total amount: 355493.92
+
+Lance Armstrong
+unit price: 29.99
+quantity: 1
+amount: 31.64
+
+unit price: 300.43
+quantity: 1
+amount: 316.95
+
+total amount: 30338.60

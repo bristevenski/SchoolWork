@@ -1,0 +1,4 @@
+G:\COBOL ProgramsLabs\Lab03\obj\x86\Debug\Lab03.exe
+G:\COBOL ProgramsLabs\Lab03\Lab03.exe
+E:\COBOL ProgramsLabs\Lab03\obj\x86\Debug\Lab03.exe
+E:\COBOL ProgramsLabs\Lab03\Lab03.exe

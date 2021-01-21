@@ -1,0 +1,491 @@
+I-Logix-RPY-Archive version 8.7.1 C++ 5066837
+{ ISubsystem 
+	- _id = GUID f4d17ea7-7640-4ec9-a7bc-e2236a4b5fba;
+	- _myState = 8192;
+	- _name = "Default";
+	- _lastID = 9;
+	- weakCGTime = 4.26.2014::20:10:31;
+	- strongCGTime = 12.31.1969::18:0:0;
+	- AssociationElements = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IAssociationClass 
+			- _id = GUID 93551383-c07c-49c1-9a63-914b152b4e06;
+			- _myState = 8192;
+			- _name = "runs";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _isClass = 0;
+			- m_end1 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID 011d2485-0377-485d-9120-5c4e4aae0519;
+			}
+			- m_end2 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID 7620c099-d92e-4af3-b90e-4134e723d7e3;
+			}
+		}
+		{ IAssociationClass 
+			- _id = GUID 7d19175e-8d05-4564-883e-8ea2d694fa5c;
+			- _myState = 8192;
+			- _name = "runs";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+			- _isClass = 0;
+			- m_end1 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID 37a8f3b1-d255-4fee-af6f-04050c95cc55;
+			}
+			- m_end2 = { IHandle 
+				- _m2Class = "IAssociationEnd";
+				- _id = GUID bd7f27ce-fc0c-4c5a-a325-4455c76c2074;
+			}
+		}
+	}
+	- _defaultComposite = GUID 6cfe273e-5f73-449e-ac74-f2ac9b55410a;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 10;
+		- value = 
+		{ IClass 
+			- _id = GUID 6cfe273e-5f73-449e-ac74-f2ac9b55410a;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 25a21814-339d-4ff7-a16d-9c7914a610c3;
+			- _myState = 8192;
+			- _name = "Prog6";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:4:34;
+			- strongCGTime = 4.26.2014::19:56:5;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 011d2485-0377-485d-9120-5c4e4aae0519;
+					- _myState = 10240;
+					- _name = "itsProg6Frame";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID b44e7f01-7c48-4472-8e82-7ec274e94efa;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 7620c099-d92e-4af3-b90e-4134e723d7e3;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 93551383-c07c-49c1-9a63-914b152b4e06;
+					}
+				}
+				{ IAssociationEnd 
+					- _id = GUID 37a8f3b1-d255-4fee-af6f-04050c95cc55;
+					- _myState = 10240;
+					- _name = "itsRPNEvaluator";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 30663f1d-1daf-415d-a04c-91a5ae20fe18;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID bd7f27ce-fc0c-4c5a-a325-4455c76c2074;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 7d19175e-8d05-4564-883e-8ea2d694fa5c;
+					}
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID b44e7f01-7c48-4472-8e82-7ec274e94efa;
+			- _myState = 8192;
+			- _name = "Prog6Frame";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:10:56;
+			- strongCGTime = 4.26.2014::19:56:11;
+			- Inheritances = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IGeneralization 
+					- _id = GUID 718a5a7f-f220-4fc1-8ecd-654d160fa6a5;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 1e7542b7-591d-40bc-93bc-b42e515ad1a7;
+					}
+					- _inheritanceType = iPublic;
+					- _isVirtual = 0;
+				}
+			}
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 7620c099-d92e-4af3-b90e-4134e723d7e3;
+					- _myState = 10240;
+					- _name = "itsProg6";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 25a21814-339d-4ff7-a16d-9c7914a610c3;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 011d2485-0377-485d-9120-5c4e4aae0519;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = NonNavigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 93551383-c07c-49c1-9a63-914b152b4e06;
+					}
+				}
+				{ IAssociationEnd 
+					- _id = GUID b950acf6-3dd0-4f17-9710-f93d7460e3a8;
+					- _myState = 10240;
+					- _name = "itsGUI_Classes";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 279bf9f7-7e32-4191-a81c-3bbc9d1888e0;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID cd5512ac-ad65-47c8-86e6-906ab2a5880a;
+			- _myState = 8192;
+			- _name = "Queue";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:8:2;
+			- strongCGTime = 4.26.2014::19:56:20;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID d71a1971-c99e-420f-a867-4d702f5071fc;
+					- _myState = 10240;
+					- _name = "itsProg6Frame";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID b44e7f01-7c48-4472-8e82-7ec274e94efa;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 92b24b2e-c360-48f7-8299-6823014ec109;
+					- _myState = 10240;
+					- _name = "itsRPNEvaluator";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 30663f1d-1daf-415d-a04c-91a5ae20fe18;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID b62148d8-6eb3-442d-819b-746e5208602a;
+			- _myState = 8192;
+			- _name = "Fraction";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:6:46;
+			- strongCGTime = 4.26.2014::19:56:49;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 4d1c1590-9353-4528-aef0-972977aa7e32;
+			- _myState = 8192;
+			- _name = "Node";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:9:5;
+			- strongCGTime = 4.26.2014::19:56:55;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 516ddc0f-7468-4c03-a5b8-81850eeeddbb;
+					- _myState = 10240;
+					- _name = "itsQueue";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID cd5512ac-ad65-47c8-86e6-906ab2a5880a;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID db7823fd-ec72-45fd-9417-12a68f95e7bf;
+					- _myState = 10240;
+					- _name = "itsStack";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID fb27532d-e4b8-4974-9c33-97dddc3c71dd;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 30663f1d-1daf-415d-a04c-91a5ae20fe18;
+			- _myState = 8192;
+			- _name = "RPNEvaluator";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:4:34;
+			- strongCGTime = 4.26.2014::19:57:5;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID bd7f27ce-fc0c-4c5a-a325-4455c76c2074;
+					- _myState = 10240;
+					- _name = "itsProg6";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 25a21814-339d-4ff7-a16d-9c7914a610c3;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 37a8f3b1-d255-4fee-af6f-04050c95cc55;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = NonNavigable;
+					- m_associationClass = { IHandle 
+						- _m2Class = "IAssociationClass";
+						- _id = GUID 7d19175e-8d05-4564-883e-8ea2d694fa5c;
+					}
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 1e7542b7-591d-40bc-93bc-b42e515ad1a7;
+			- _myState = 8192;
+			- _name = "JFrame";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:3:21;
+			- strongCGTime = 4.26.2014::19:57:42;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID fb27532d-e4b8-4974-9c33-97dddc3c71dd;
+			- _myState = 8192;
+			- _name = "Stack";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:8:17;
+			- strongCGTime = 4.26.2014::19:56:25;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID ab205122-599c-4f73-85c1-b5d338e02d2c;
+					- _myState = 10240;
+					- _name = "itsProg6Frame";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID b44e7f01-7c48-4472-8e82-7ec274e94efa;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 81295c84-2094-4f0a-ad53-3c52a6f7a40b;
+					- _myState = 10240;
+					- _name = "itsRPNEvaluator";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IClass";
+						- _id = GUID 30663f1d-1daf-415d-a04c-91a5ae20fe18;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "";
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID 279bf9f7-7e32-4191-a81c-3bbc9d1888e0;
+			- _myState = 8192;
+			- _name = "GUI_Classes";
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Prog6";
+				- _id = GUID 97232114-134e-468e-99d7-90f2533f8a8c;
+			}
+			- weakCGTime = 4.26.2014::20:10:40;
+			- strongCGTime = 4.26.2014::20:10:40;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 12.31.1969::18:0:0;
+}
+

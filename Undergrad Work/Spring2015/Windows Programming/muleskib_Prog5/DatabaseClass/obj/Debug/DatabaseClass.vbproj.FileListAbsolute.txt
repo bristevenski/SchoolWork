@@ -1,0 +1,8 @@
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\bin\Debug\DatabaseClass.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\bin\Debug\DatabaseClass.pdb
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\bin\Debug\DatabaseClass.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\obj\Debug\UWPCS3340.Resources.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\obj\Debug\DatabaseClass.vbproj.GenerateResource.Cache
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\obj\Debug\DatabaseClass.dll
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\obj\Debug\DatabaseClass.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\Prog5GUI\DatabaseClass\obj\Debug\DatabaseClass.pdb

@@ -1,0 +1,188 @@
+a.	As a database designer, you don’t need to understand the E-R model, since the model is for the clients only.
+FALSE
+
+b.	An E-R model should have foreign keys for each entity type.
+FALSE
+
+c.	Each strong entity type in the E-R model should have at least one candidate key.
+TRUE
+
+d.	A relationship type in the E-R model should not have any attributes, since any attribute belongs to an entity type.
+FALSE
+
+e.	We can use Database Design Language also known as DBDL to specify relational database table schemas.
+TRUE
+
+f.	DBDL cannot contain multi-value attributes.
+TRUE
+
+g.	DBDL can have composite attributes.
+FALSE
+
+h.	If your E-R model has a relationship between two entities, then you should always create a new table to maintain the relationship in the database schema when mapping the E-R model to DBDL
+FALSE
+
+i.	If your E-R model has a one-to-many relationship between two entities, then you should copy the PK of either entity to another entity as FK when mapping the E-R model to DBDL.
+TRUE
+
+j.	If your E-R model has a many-to-many relationship between two entities, then you can also copy the PK of one entity to another entity as FK when mapping the E-R model to DBDL.
+FALSE
+
+
+k.	A database schema in DBDL is in 1NF already, since it has no multi-value attributes.
+TRUE
+
+l.	The functional dependency A  B indicates that if two records have the same value on attribute A, then they should have the same value on attribute B.
+TRUE
+
+m.	The functional dependency A  B also indicates that if two records have different values on attribute A, then they should have different values on attribute B.
+FALSE
+
+n.	If	A  B then, for any attribute C,  	 A  B, C
+FALSE
+
+o.	If	A  B then, for any attribute C,  	 A, C  B
+TRUE
+
+p.	2NF requires a relation have no partial functional dependency on any key (primary or alternate).
+TRUE
+
+q.	If a relation R is in BCNF, then it is in 3NF.
+TRUE
+
+r.	BCNF requires the determinant of any (non-trivial) functional dependency be the primary key.
+FALSE
+
+s.	The major difference between a natural join and an outer join is that the outer join will always produce some records with NULL values.
+FALSE
+
+t.	You can select any attributes in your query even when you use GROUP BY in the query.
+TRUE
+
+2.	(10 points) Select your answers by underlining and bolding the choices.
+
+ClientNo and StaffNo are unique for Clients and Employees, respectively.
+One client can have multiple classes a day, with the same or different instructors (staff).
+One instructor (staff) can have multiple classes a day, with the same or different clients.
+
+
+   
+ClientNo	ClientName	StaffNo	ClassDate	TimeStart	TimeEnd		CType
+P0011		Tom			S01		11-Apr-14	10:00 AM	11:00 AM	Local
+P0021		Joe			S01		11-Apr-14	08:30 AM	10:00 AM	Starter
+P0031		Rob			S01		13-Apr-14	10:00 AM	11:00 AM	Local
+P0011		Tom			S02		11-Apr-14	02:00 PM	03:30 PM	Highway
+P0021		Joe			S01		21-May-14	09:00 AM	10:30 AM	Local
+P0031		Rob			S01		13-Apr-14	05:00 PM	07:00 PM	Highway
+
+
+
+u.	ClientName -> ClientNo
+FALSE
+
+v.	StaffNo, ClassDate -> ClientNo
+FALSE
+
+w.	ClientNo, ClassDate -> StaffNo
+FALSE
+
+x.	ClientNo, StaffNo, ClassDate -> TimeStart
+FALSE
+
+y.	ClientNo,ClassDate, TimeStart -> All
+TRUE
+
+
+ 
+3.	(10 points) Derive table schemas for the following two entities with the given relationship. Use DBDL to specify the schemas for the derived tables.
+
+EntityOne  				     			EntityTwo
+A1	                                     B1
+A2: multi-value 					     B2: composite (B21, B22)
+A3: composite (A31, A32)                 B3: composite (B31, B32, B33)
+       multi-value						 B4
+A4							        	 PK: B1, B4
+PK: A1                                		     	     	     
+
+
+EntityOne (1..*)    		IsRelated       	(0..1) EntityTwo
+              		Attributes: D1, D2
+
+
+EntityOne(A1, A4)
+Primary Key: A1
+Alternative Key: None
+Foreign Key: None
+
+EntityOneTableTwo(A1, A2, uniqueKey)
+Primary Key: uniqueKey
+Foreign Key A1 references Entity One
+Alternative Key: None
+
+ EntityOneTableThree(A1, A31, A32, anotherKey)
+Primary Key: anotherKey
+Foreign Key: A1 references Entity One
+Alternative Key: None
+
+EntityTwo(B1, B21, B22, B31, B32, B33, B4)
+Primary Key: B1, B4
+Alternative Key: None
+Foreign Key: None
+
+RelationTable(A1, B1, B4, D1, D2, newKey)
+Primary Key: newKey
+Foreign Key:  A1 references EntityOne
+		    B1, B4 references EntityTwo
+
+
+		     
+
+4.	(10 points) Decompose the following relation into BCNF. 
+        R (A, B, C, D, E, F)
+         PK: A, B, C
+         AK: B, C, D
+         Functional Dependencies:
+            A, B, C -> All
+            B, C, D -> All
+            C, D -> A
+
+A	B	C	D	E	F
+C50	300	10	1	0	A
+C50	200	10	1	2	B
+C50	300	20	4	2	C
+C70	500	20	1	0	D
+
+Decompose table R into BCNF. For each table,
+    Use DBDL to specify the table schema.
+                Give the functional dependencies.
+                Give the corresponding table instance.
+
+
+TableOne(B, C, D, E, F)
+Primary Key:		 B, C, D
+Alternative Key: 	None
+Foreign Key: 		None
+Functional Dependencies:
+			B, C, D -> All
+
+B	C	D	E	F
+300	10	1	0	A
+200	10	1	2	B
+300	20	4	2	C
+500	20	1	0	D
+
+TableTwo(C, D, A) 
+Primary Key:		 C, D
+Alternative Key: 	None
+Foreign Key: 		C, D references TableOne
+Functional Dependencies:
+				C, D -> A
+
+
+C	D	A
+10	1	C50
+20	4	C50
+20	1	C70
+
+
+

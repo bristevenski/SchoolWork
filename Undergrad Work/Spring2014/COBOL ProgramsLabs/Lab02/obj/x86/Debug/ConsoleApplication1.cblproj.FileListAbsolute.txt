@@ -1,0 +1,2 @@
+c:\users\muleskib\documents\visual studio 2012\Projects\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+c:\users\muleskib\documents\visual studio 2012\Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe

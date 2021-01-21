@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "muleskib_A10", "Login\muleskib_A10.vbproj", "{AEAF3252-BCB4-41AE-9F7E-600835D9BC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAF3252-BCB4-41AE-9F7E-600835D9BC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAF3252-BCB4-41AE-9F7E-600835D9BC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAF3252-BCB4-41AE-9F7E-600835D9BC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAF3252-BCB4-41AE-9F7E-600835D9BC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\bin\Debug\Prog1.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.FormClassCreate.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.FormClassShow.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.Resources.resources
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.vbproj.GenerateResource.Cache
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.xml
+C:\Users\Brianna\Documents\School\Spring2015\Windows Programming\MuleskiB_Prog1\Prog1\obj\Debug\Prog1.pdb

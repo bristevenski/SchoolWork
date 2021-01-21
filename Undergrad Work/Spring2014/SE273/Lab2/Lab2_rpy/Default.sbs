@@ -1,0 +1,308 @@
+I-Logix-RPY-Archive version 8.7.1 C++ 5066837
+{ ISubsystem 
+	- _id = GUID 5ec438b6-b0d9-4714-8909-c19a82b9c346;
+	- _myState = 8192;
+	- _name = "Default";
+	- _lastID = 5;
+	- weakCGTime = 2.26.2014::19:15:49;
+	- strongCGTime = 12.31.1969::18:0:0;
+	- _defaultComposite = GUID ecc593dc-57f7-4aa7-bc39-cf278411c668;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID ecc593dc-57f7-4aa7-bc39-cf278411c668;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- UseCases = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ IUseCase 
+			- _id = GUID 59a95d29-b530-41cc-b16f-797bfce15e38;
+			- _myState = 8192;
+			- _name = "Check Out Book";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 072dc71a-946e-4f3f-b563-329111cd5ceb;
+					- _myState = 10240;
+					- _name = "itsPatron";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 9b779466-3fb6-414a-88d9-a0a8582ff2cc;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 47d79b69-5958-4614-a62d-9c4b879d6010;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID d2180d5a-bbe9-482e-9c03-dcb1dffb0dec;
+					- _myState = 10240;
+					- _name = "itsLibrarian";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID b3dc7c45-ac8c-4b5f-b714-cc24698272e8;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 54621547-2764-4aaf-a6f9-b8222e68ae42;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 8ac3e126-20b2-4a11-a194-68b0b0ed3a53;
+			- _myState = 8192;
+			- _name = "Renew Book";
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 60e03a8c-c05d-4ede-84e2-b994ac7179dd;
+					- _myState = 10240;
+					- _name = "itsLibrarian";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID b3dc7c45-ac8c-4b5f-b714-cc24698272e8;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 7d720b41-8907-4291-afb7-776931d015d5;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID b9a4ec1b-7792-4ddc-a180-3c1ffe0dc5f8;
+					- _myState = 10240;
+					- _name = "itsPatron";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID 9b779466-3fb6-414a-88d9-a0a8582ff2cc;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 31533207-a4ed-49fa-84f8-23721710121c;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+		{ IUseCase 
+			- _id = GUID 6231f474-83d9-4aa3-b021-3e1e96642f8b;
+			- _myState = 8192;
+			- _name = "Return Book";
+			- _description = { IDescription 
+				- _text = "Patron only indirectly involved";
+			}
+			- weakCGTime = 12.31.1969::18:0:0;
+			- strongCGTime = 12.31.1969::18:0:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 3b04e1df-2f0f-49e8-a7ba-c549bffbdf29;
+					- _myState = 10240;
+					- _name = "itsLibrarian";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IActor";
+						- _id = GUID b3dc7c45-ac8c-4b5f-b714-cc24698272e8;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID eb5842e6-f626-4985-a347-99444598d443;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+			- UseCaseStereoTypes = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _EntryPoints = { IRPYRawContainer 
+				- size = 0;
+			}
+		}
+	}
+	- Actors = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IActor 
+			- _id = GUID 9b779466-3fb6-414a-88d9-a0a8582ff2cc;
+			- _myState = 8192;
+			- _name = "Patron";
+			- weakCGTime = 2.26.2014::19:16:58;
+			- strongCGTime = 2.26.2014::19:13:34;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 47d79b69-5958-4614-a62d-9c4b879d6010;
+					- _myState = 10240;
+					- _name = "itsCheck Out Book";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 59a95d29-b530-41cc-b16f-797bfce15e38;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 072dc71a-946e-4f3f-b563-329111cd5ceb;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 31533207-a4ed-49fa-84f8-23721710121c;
+					- _myState = 10240;
+					- _name = "itsRenew Book";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8ac3e126-20b2-4a11-a194-68b0b0ed3a53;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID b9a4ec1b-7792-4ddc-a180-3c1ffe0dc5f8;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IActor 
+			- _id = GUID b3dc7c45-ac8c-4b5f-b714-cc24698272e8;
+			- _myState = 8192;
+			- _name = "Librarian";
+			- weakCGTime = 2.26.2014::19:16:47;
+			- strongCGTime = 2.26.2014::19:16:11;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- Associations = { IRPYRawContainer 
+				- size = 3;
+				- value = 
+				{ IAssociationEnd 
+					- _id = GUID 54621547-2764-4aaf-a6f9-b8222e68ae42;
+					- _myState = 10240;
+					- _name = "itsCheck Out Book";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 59a95d29-b530-41cc-b16f-797bfce15e38;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID d2180d5a-bbe9-482e-9c03-dcb1dffb0dec;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID 7d720b41-8907-4291-afb7-776931d015d5;
+					- _myState = 10240;
+					- _name = "itsRenew Book";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 8ac3e126-20b2-4a11-a194-68b0b0ed3a53;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 60e03a8c-c05d-4ede-84e2-b994ac7179dd;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+				{ IAssociationEnd 
+					- _id = GUID eb5842e6-f626-4985-a347-99444598d443;
+					- _myState = 10240;
+					- _name = "itsReturn Book";
+					- _multiplicity = "1";
+					- _otherClass = { IClassifierHandle 
+						- _m2Class = "IUseCase";
+						- _id = GUID 6231f474-83d9-4aa3-b021-3e1e96642f8b;
+					}
+					- _inverse = { IHandle 
+						- _m2Class = "IAssociationEnd";
+						- _id = GUID 3b04e1df-2f0f-49e8-a7ba-c549bffbdf29;
+					}
+					- _linkName = "";
+					- _linkType = Assoc;
+					- _navigability = Navigable;
+				}
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 12.31.1969::18:0:0;
+}
+

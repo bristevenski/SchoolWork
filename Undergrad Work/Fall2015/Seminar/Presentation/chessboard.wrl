@@ -1,0 +1,29 @@
+#VRML V2.0 utf8  
+Shape {  
+geometry ElevationGrid {  xDimension 9  	# an ElevationGrid creates a grid shape, allowing each section to have
+  zDimension 9  							# its own size, color, texture, etc.																		
+  xSpacing 1  
+  zSpacing 1  
+  height [     0 0 0 0 0 0 0 0 0			# defines the height of each of the squares in the grid
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  
+   0 0 0 0 0 0 0 0 0  ]
+colorPerVertex FALSE						# setting this to FALSE means each element will have its own color
+  color Color {  
+   color [  
+    0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1,  
+    1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0,  
+    0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1,  
+    1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0,  
+    0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1,  
+    1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0,  
+    0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1,  
+    1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0, 1 1 1, 0 0 0,  
+   ]  
+  }  
+ }  

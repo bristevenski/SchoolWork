@@ -1,0 +1,6 @@
+G:\COBOL ProgramsLabs\GroupProg\bin\x86\Debug\GroupProg.exe
+G:\COBOL ProgramsLabs\GroupProg\obj\x86\Debug\GroupProg.exe
+E:\COBOL ProgramsLabs\GroupProg\bin\x86\Debug\GroupProg.exe
+E:\COBOL ProgramsLabs\GroupProg\obj\x86\Debug\GroupProg.exe
+H:\COBOL ProgramsLabs\GroupProg\bin\x86\Debug\GroupProg.exe
+H:\COBOL ProgramsLabs\GroupProg\obj\x86\Debug\GroupProg.exe

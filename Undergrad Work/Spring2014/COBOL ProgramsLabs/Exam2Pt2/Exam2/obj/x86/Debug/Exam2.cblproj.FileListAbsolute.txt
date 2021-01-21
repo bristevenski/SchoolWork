@@ -1,0 +1,2 @@
+E:\COBOL ProgramsLabs\Exam2Pt2\Exam2\bin\x86\Debug\Exam2.exe
+E:\COBOL ProgramsLabs\Exam2Pt2\Exam2\obj\x86\Debug\Exam2.exe

@@ -1,0 +1,93 @@
+F:\YangQ_Test2\FormClass\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\YangQ_Test2\FormClass\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\YangQ_Test2\FormClass\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\YangQ_Test2\FormClass\bin\Debug\FormClass.pdb
+F:\YangQ_Test2\FormClass\bin\Debug\FormClass.xml
+F:\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+F:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.xml
+F:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+F:\YangQ_Test2\FormClass\bin\Debug\FormClass.dll
+F:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.dll
+I:\YangQ_Test2\FormClass\bin\Debug\FormClass.dll
+I:\YangQ_Test2\FormClass\bin\Debug\FormClass.pdb
+I:\YangQ_Test2\FormClass\bin\Debug\FormClass.xml
+I:\YangQ_Test2\FormClass\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+I:\YangQ_Test2\FormClass\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\YangQ_Test2\FormClass\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.dll
+I:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.xml
+I:\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+I:\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+F:\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+F:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.dll
+F:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+F:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.xml
+I:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.dll
+I:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+I:\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.xml
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.dll
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.pdb
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.xml
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.dll
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.xml
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.vbprojResolveAssemblyReference.cache
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.vbproj.GenerateResource.Cache
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.dll
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.xml
+I:\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.dll
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.pdb
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\FormClass.xml
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\bin\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.vbprojResolveAssemblyReference.cache
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.vbproj.GenerateResource.Cache
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.dll
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.xml
+J:\courses\CS334\Tests\Test2\YangQ_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+C:\UserName_Test2\FormClass\bin\Debug\FormClass.dll
+C:\UserName_Test2\FormClass\bin\Debug\FormClass.pdb
+C:\UserName_Test2\FormClass\bin\Debug\FormClass.xml
+C:\UserName_Test2\FormClass\bin\Debug\CSSEClasses.dll
+C:\UserName_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+C:\UserName_Test2\FormClass\bin\Debug\CSSEClasses.xml
+C:\UserName_Test2\FormClass\obj\x86\Debug\FormClass.vbprojResolveAssemblyReference.cache
+C:\UserName_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+C:\UserName_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+C:\UserName_Test2\FormClass\obj\x86\Debug\FormClass.vbproj.GenerateResource.Cache
+C:\UserName_Test2\FormClass\obj\x86\Debug\FormClass.dll
+C:\UserName_Test2\FormClass\obj\x86\Debug\FormClass.xml
+C:\UserName_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\FormClass.dll
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\FormClass.pdb
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\FormClass.xml
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\bin\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\FormClass.vbprojResolveAssemblyReference.cache
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\FormClass.vbproj.GenerateResource.Cache
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\FormClass.dll
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\FormClass.xml
+J:\courses\CS334\Tests\Test2\UserName_Test2\FormClass\obj\x86\Debug\FormClass.pdb
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\FormClass.dll
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\FormClass.pdb
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\FormClass.xml
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\CSSEClasses.dll
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\CSSEClasses.pdb
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\bin\Debug\CSSEClasses.xml
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\FormClass.vbprojResolveAssemblyReference.cache
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\UWPCS3340.FormClassCSSE.resources
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\UWPCS3340.Resources.resources
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\FormClass.vbproj.GenerateResource.Cache
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\FormClass.dll
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\FormClass.xml
+F:\School\Spring2015\Windows Programming\muleskib_Test2\FormClass\obj\x86\Debug\FormClass.pdb

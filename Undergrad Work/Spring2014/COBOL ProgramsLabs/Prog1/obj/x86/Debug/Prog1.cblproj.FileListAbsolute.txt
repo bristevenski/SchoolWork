@@ -1,0 +1,2 @@
+E:\COBOL ProgramsLabs\Prog1\bin\x86\Debug\Prog1.exe
+E:\COBOL ProgramsLabs\Prog1\obj\x86\Debug\Prog1.exe

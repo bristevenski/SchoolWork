@@ -1,0 +1,14 @@
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\Prog1.exe
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.csproj.GenerateResource.Cache
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.exe
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.pdb
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\obj\Debug\Prog1.MainForm.resources
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\OpenTK.dll
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\OpenTK.pdb
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\OpenTK.xml
+C:\Users\Brianna\Documents\School\Fall2015\Graphics\Prog1\bin\Debug\OpenTK.GLControl.xml

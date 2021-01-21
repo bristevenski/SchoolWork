@@ -1,0 +1,14 @@
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\Lab0.exe.config
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\Lab0.exe
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\Lab0.pdb
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\OpenTK.dll
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\OpenTK.GLControl.dll
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\OpenTK.pdb
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\OpenTK.xml
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\bin\Debug\OpenTK.GLControl.xml
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.csprojResolveAssemblyReference.cache
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.Form1.resources
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.Properties.Resources.resources
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.csproj.GenerateResource.Cache
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.exe
+K:\Courses\CSSE\clifton\cs3920\muleskib\Lab0\obj\Debug\Lab0.pdb

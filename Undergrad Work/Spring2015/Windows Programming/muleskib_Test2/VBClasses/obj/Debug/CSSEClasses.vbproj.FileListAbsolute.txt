@@ -1,0 +1,50 @@
+F:\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+F:\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+F:\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+F:\YangQ_Test2\VBClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\YangQ_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+F:\YangQ_Test2\VBClasses\obj\Debug\GenerateResource.read.1.tlog
+F:\YangQ_Test2\VBClasses\obj\Debug\GenerateResource.write.1.tlog
+F:\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+F:\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+F:\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.pdb
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.vbproj.GenerateResource.Cache
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+I:\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.vbproj.GenerateResource.Cache
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\YangQ_Test2\VBClasses\obj\Debug\CSSEClasses.pdb
+C:\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+C:\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+C:\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+C:\UserName_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+C:\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.vbproj.GenerateResource.Cache
+C:\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+C:\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+C:\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.vbproj.GenerateResource.Cache
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+J:\courses\CS334\Tests\Test2\UserName_Test2\VBClasses\obj\Debug\CSSEClasses.pdb
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\bin\Debug\CSSEClasses.dll
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\bin\Debug\CSSEClasses.pdb
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\bin\Debug\CSSEClasses.xml
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\obj\Debug\UWPCS3340.Resources.resources
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\obj\Debug\CSSEClasses.vbproj.GenerateResource.Cache
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\obj\Debug\CSSEClasses.dll
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\obj\Debug\CSSEClasses.xml
+F:\School\Spring2015\Windows Programming\muleskib_Test2\VBClasses\obj\Debug\CSSEClasses.pdb

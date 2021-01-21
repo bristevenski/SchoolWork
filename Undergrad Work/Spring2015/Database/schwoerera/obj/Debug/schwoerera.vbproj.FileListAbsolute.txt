@@ -1,0 +1,16 @@
+c:\users\ashlyn\documents\visual studio 2012\Projects\schwoerera\bin\Debug\schwoerera.exe.config
+c:\users\ashlyn\documents\visual studio 2012\Projects\schwoerera\obj\Debug\schwoerera.Staff.resources
+c:\users\ashlyn\documents\visual studio 2012\Projects\schwoerera\obj\Debug\schwoerera.Login.resources
+c:\users\ashlyn\documents\visual studio 2012\Projects\schwoerera\obj\Debug\schwoerera.Resources.resources
+c:\users\ashlyn\documents\visual studio 2012\Projects\schwoerera\obj\Debug\schwoerera.vbproj.GenerateResource.Cache
+F:\School\Spring2015\Database\schwoerera\bin\Debug\schwoerera.exe.config
+F:\School\Spring2015\Database\schwoerera\bin\Debug\schwoerera.exe
+F:\School\Spring2015\Database\schwoerera\bin\Debug\schwoerera.pdb
+F:\School\Spring2015\Database\schwoerera\bin\Debug\schwoerera.xml
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.Login.resources
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.Staff.resources
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.Resources.resources
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.vbproj.GenerateResource.Cache
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.exe
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.xml
+F:\School\Spring2015\Database\schwoerera\obj\Debug\schwoerera.pdb

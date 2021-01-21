@@ -1,0 +1,20 @@
+Program 3 - Extra Features
+Brianna Muleski
+
+1.	Random (x, y): Before pressing the “Add Bot” button, if you press the “Random” button 
+				   a set of (x, y) coordinates will be generated and displayed. This button
+				   also disables the use of the numericUpDown options for the coordinates until 
+				   the bot is added.
+
+2.	Random bot: Before pressing the “Add Bot” button, if no bot type is chosen from the dropdown menu, 
+                then a bot type is randomly generated.
+
+
+3.	Bot sound: A sound clip plays when a bot is added to the panel corresponding to the type of bot chosen/generated.
+
+4.	Battle Info: While the application is running, the “battle info” is kept up-to-date in a text box. This 
+				 textbox indicates the number of battles played, and the number of bots that have died from battles.
+
+
+5.	Mute button: When clicked, the bot sound will no longer play when the bot is added to the panel. The 
+				 button then changes to “unmute”, and the sound can be unmuted if clicked again.

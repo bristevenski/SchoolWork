@@ -1,0 +1,12 @@
+#VRML V2.0 utf8
+
+DEF MyInline Inline {
+	url	["controller.wrl"] }
+
+	Transform {
+		translation 1 0 0
+		rotation 1 0 0 0.2
+		children [
+			USE	MyInline ]}
+
+	

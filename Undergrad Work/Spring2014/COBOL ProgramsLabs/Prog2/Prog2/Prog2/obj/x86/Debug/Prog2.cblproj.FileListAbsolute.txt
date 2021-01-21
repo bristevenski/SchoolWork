@@ -1,0 +1,2 @@
+H:\COBOL ProgramsLabs\Prog2\Prog2\Prog2\bin\x86\Debug\Prog2.exe
+H:\COBOL ProgramsLabs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.exe
